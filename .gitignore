@@ -12,6 +12,11 @@ build/
 develop-eggs/
 dist/
 downloads/
+original_files/
+app/input_files
+app/output_files
+legacy_app/input_files_legacy
+legacy_app/output_files_legacy
 eggs/
 .eggs/
 lib/
